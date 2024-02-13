@@ -12,3 +12,5 @@ C4
 C5 local-written
 
 C6 local-written
+
+C5 remote-only
